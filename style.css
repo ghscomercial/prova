@@ -1,0 +1,26 @@
+#logo{
+    height: 35px;
+    width: 110px;
+    }
+    
+    .btn-menu{
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: #EB5757;
+    color: #ffffff;
+    border: none;
+    }
+    
+    .menu-spe{
+    position: relative;
+    margin-left: 220px;
+    }
+    
+    .img-banner{
+        background-image: url(./assents/banner.png);
+        height: 600px;
+        width: 100%
+        background-size
+        
+    }
